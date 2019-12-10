@@ -14,5 +14,6 @@ with open("./report/report.html", "wb") as f:
     runner = HTMLTestRunner(stream=f, title="tpshop商城测试用例", description="报告描述")
     runner.run(suite)
 
+
 DriverUtil.kaiguan = True
 DriverUtil.quit_driver()

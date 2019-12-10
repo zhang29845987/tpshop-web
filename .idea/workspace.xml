@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52b45b20-e0e0-48a0-83f5-ebc0369e5d06" name="Default Changelist" comment="" />
+    <list default="true" id="52b45b20-e0e0-48a0-83f5-ebc0369e5d06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/run_textrunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_textrunner.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +163,7 @@
       <workItem from="1574907260869" duration="20329000" />
       <workItem from="1574987470012" duration="9654000" />
       <workItem from="1575079473763" duration="27000" />
-      <workItem from="1575980817390" duration="1222000" />
+      <workItem from="1575980817390" duration="1461000" />
     </task>
     <servers />
   </component>
